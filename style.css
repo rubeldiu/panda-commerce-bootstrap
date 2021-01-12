@@ -60,4 +60,18 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
+#app-banner{
+    background-image: linear-gradient(to bottom,  #FF589B 0%, #FF136F 100%);
+}
+#app-banner h1{
+    padding-top: 20px;
+    color: #fff;
+}
+#app-banner img{
+    width: 150px;
+    margin: 50px 0;
+} 
+footer a img{
+    width:50px;
+}
  
